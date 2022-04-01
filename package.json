@@ -1,0 +1,46 @@
+{
+  "name": "@stdlib/math-iter-special-hacoversin",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the half-value coversed sine for each iterated value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-hacoversin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "hacoversin",
+    "hacoversine",
+    "versed sine",
+    "half-value",
+    "coversed",
+    "sinus versus",
+    "hacoversinus",
+    "hcv",
+    "hacov",
+    "semicoversin",
+    "cohaversine",
+    "versed",
+    "sine",
+    "sin",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
